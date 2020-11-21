@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\DataStructure.h(180,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\DataStructure.h(187,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\DataStructure.h(195,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\DataStructure.h(200,56): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\Shader.h(46,40): warning C4101: “e”: 未引用的局部变量
+D:\MyLibFunc\include\poly2tri\sweep\sweep_context.h(161,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\main.cpp(167,50): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\main.cpp(167,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\main.cpp(210,41): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\main.cpp(210,28): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\main.cpp(373,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\main.cpp(407,58): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\main.cpp(420,58): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\main.cpp(434,78): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\其他\三维CAD建模\Simple_CAD_System\Simple_CAD_System\main.cpp(440,79): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  Simple_CAD_System.vcxproj -> D:\其他\三维CAD建模\Simple_CAD_System\x64\Debug\Simple_CAD_System.exe
